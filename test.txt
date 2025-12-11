@@ -1,0 +1,12 @@
+To make sure github linked correctly and that i implicated a change
+from within  my terminal
+
+git status
+git add test.txt
+git commit add -m "Add test.txt as a test file"
+(commits change)
+
+Now to push it 
+
+git push -u origin main (if first time)
+git push (if you alresdy have)
